@@ -2,6 +2,7 @@
 
 ## slash commands
 
+| command | description |
 | -------- | ------- |
 | /clear | Start a new chat session. |
 | /explain| Explain how the code in your active editor works. |
@@ -10,4 +11,3 @@
 | /help| Quick reference and basics of using GitHub Copilot. |
 | /new| Create a new project. |
 | /tests| Generate unit tests for the selected code. |
-| -------- | ------- |
