@@ -28,6 +28,6 @@
 
 Open the Copilot chat panel in your IDE
 
-![copilot-chat](/images/copilot-chat.png)
+![copilot-chat](images/copilot-chat.png)
 
 ### inline chat
