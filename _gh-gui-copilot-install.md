@@ -23,7 +23,7 @@
 - Keyboard shortcuts 
 -   Ctrl + Shift + P (Windows or Linux)
 -   Cmd + Shift + P (Mac)
-- Enter Copilot to see available commands
+- Enter "copilot" to see available commands,
   - ![copilot-command-palette](images/copilot-command-palette.png)
 
 ### copilot chat
