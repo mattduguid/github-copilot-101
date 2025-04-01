@@ -31,7 +31,7 @@ Open the command palette in Visual Studio Code by selecting
 - Mac
   - Cmd + Shift + P
 - Both
--   Enter Copilot to see available commands.
+  - Enter Copilot to see available commands.
 
 ## slash commands
 
