@@ -23,15 +23,15 @@ gh auth status
 
 ## extensions
 
-### documentation
+### extenstions documentation
 
 - https://cli.github.com/manual/gh_extension
 
-### available extensions
+### extensions marketplace
 
 - https://github.com/topics/gh-extension
 
-### use
+### extension install gh-copilot
 
 ```bash
 # list
