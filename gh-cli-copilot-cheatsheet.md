@@ -46,7 +46,7 @@ Open the command palette in Visual Studio Code by selecting
 | #selection | Includes the currently selected text in the prompt. |
 | #sym | Includes the current symbol in the prompt. |
 
-## chat participants
+## chat agents
 
 | variables | description |
 | -------- | ------- |
