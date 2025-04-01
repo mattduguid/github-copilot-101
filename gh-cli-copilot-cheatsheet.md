@@ -53,8 +53,8 @@ Open the command palette in Visual Studio Code by selecting
 ## multiple suggestions
 
   - Windows or Linux
-  -   Next = Alt + ]
-  -   Previous = Alt + [
+    - Next = Alt + ]
+    - Previous = Alt + [
   - Mac
     - Next = Option (⌥) or Alt + ]
     - Previous = Option (⌥) or Alt + [
