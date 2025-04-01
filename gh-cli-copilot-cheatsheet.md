@@ -24,11 +24,14 @@ Open the command palette in Visual Studio Code by selecting
 | command | description |
 | -------- | ------- |
 | /clear | Start a new chat session. |
+| /doc | Adds comments to the specified or selected code. |
 | /explain| Explain how the code in your active editor works. |
 | /fix| Propose a fix for problems in the selected code. |
 | /fixTestFailure| Find and fix a failing test. |
+| /generate | Generates code to answer the specified question. |
 | /help| Quick reference and basics of using GitHub Copilot. |
 | /new| Create a new project. |
+| /optimize | Analyzes and improves the runtime of the selected code. |
 | /tests| Generate unit tests for the selected code. |
 
 ## chat variables
