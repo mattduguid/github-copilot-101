@@ -38,4 +38,6 @@
   - Ctrl + I (Windows or Linux)
   - Cmd + I (Mac)
 - Use [/slash commands](gh-cli-copilot-cheatsheet.md#slash-commands) or ask questions or request changes specific to that code location,
-  - ![copilot-inline-chat](images/copilot-inline-chat.png)
+  - ![copilot-inline-chat-1](images/copilot-inline-chat-1.png)
+- Select a specific code location and select the 2 yellow stars for options,
+  - ![copilot-inline-chat-2](images/copilot-inline-chat-2.png)
