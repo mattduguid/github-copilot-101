@@ -15,3 +15,17 @@
   - https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat
 - Visual Studio Code Extension - Github Copilot for Azure
   - https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot
+
+## use
+
+### command palette
+
+- Ctrl + Shift + P (Windows or Linux)
+- Cmd + Shift + P (Mac)
+- Enter Copilot to see available commands
+
+### copilot chat
+
+
+
+### inline chat
