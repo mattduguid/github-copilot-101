@@ -20,14 +20,21 @@
 
 ### command palette
 
-- Ctrl + Shift + P (Windows or Linux)
-- Cmd + Shift + P (Mac)
+- Keyboard shortcuts 
+-   Ctrl + Shift + P (Windows or Linux)
+-   Cmd + Shift + P (Mac)
 - Enter Copilot to see available commands
+  - ![copilot-command-palette](images/copilot-command-palette.png)
 
 ### copilot chat
 
-Open the Copilot chat panel in your IDE
-
-![copilot-chat](images/copilot-chat.png)
+- Open the Copilot chat panel in your IDE,
+  - ![copilot-chat](images/copilot-chat.png)
 
 ### inline chat
+
+- Place your cursor where you want assistance.
+- Keyboard shortcuts
+  - Ctrl + I (Windows or Linux)
+  - Cmd + I (Mac)
+- Use [/slash commands](gh-cli-copilot-cheatsheet.md#slash-commands) or ask questions or request changes specific to that code location
