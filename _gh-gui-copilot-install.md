@@ -18,7 +18,7 @@
 
 ## configure
 
-- On the "file" menu select "Preferences" then "Settings", in "Search Settings" type  "copilot"
+- On the "file" menu select "Preferences" then "Settings", in "Search Settings" type  "copilot",
   - ![copilot-configure](images/copilot-configure.png)
 
 ## use
