@@ -23,7 +23,7 @@ gh auth status
 
 ## extensions
 
-### manual
+### documentation
 
 - https://cli.github.com/manual/gh_extension
 
