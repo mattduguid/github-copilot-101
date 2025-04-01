@@ -37,4 +37,5 @@
 - Keyboard shortcuts
   - Ctrl + I (Windows or Linux)
   - Cmd + I (Mac)
-- Use [/slash commands](gh-cli-copilot-cheatsheet.md#slash-commands) or ask questions or request changes specific to that code location
+- Use [/slash commands](gh-cli-copilot-cheatsheet.md#slash-commands) or ask questions or request changes specific to that code location,
+  - ![copilot-inline-chat](images/copilot-inline-chat.png)
