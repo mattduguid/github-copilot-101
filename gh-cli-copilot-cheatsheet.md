@@ -26,9 +26,12 @@
 
 Open the command palette in Visual Studio Code by selecting
 
-- Ctrl+Shift+P (Windows or Linux)
-- Cmd+Shift+P (Mac).
-- Enter Copilot to see available commands.
+- Windows or Linux
+  - Ctrl + Shift + P 
+- Mac
+  - Cmd + Shift + P
+- Both
+-   Enter Copilot to see available commands.
 
 ## slash commands
 
@@ -44,6 +47,17 @@ Open the command palette in Visual Studio Code by selecting
 | /new | Create a new project. |
 | /optimize | Analyzes and improves the runtime of the selected code. |
 | /tests | Generate unit tests for the selected code. |
+
+## keyboard shortcuts
+
+## multiple suggestions
+
+  - Windows or Linux
+  -   Next = Alt + ]
+  -   Previous = Alt + [
+  - Mac
+    - Next = Option (⌥) or Alt + ]
+    - Previous = Option (⌥) or Alt + [
 
 ## chat variables
 
