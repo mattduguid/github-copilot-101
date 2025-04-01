@@ -1,5 +1,13 @@
 # cheat sheet
 
+## command palette
+
+Open the command palette in Visual Studio Code by selecting
+
+- Ctrl+Shift+P (Windows or Linux)
+- Cmd+Shift+P (Mac).
+- Enter Copilot to see available commands.
+
 ## slash commands
 
 | command | description |
