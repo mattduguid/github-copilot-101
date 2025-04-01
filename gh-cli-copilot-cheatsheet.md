@@ -1,5 +1,16 @@
 # cheat sheet
 
+## supported languages
+
+- Python
+- JavaScript
+- Java
+- TypeScript
+- Ruby
+- Go
+- C#
+- C++
+
 ## prompt engineering
 
 - Single
