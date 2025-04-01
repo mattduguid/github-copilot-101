@@ -1,4 +1,4 @@
-# gh-copilot-cli-install
+# gh-cli-copilot-install
 
 ## main
 
