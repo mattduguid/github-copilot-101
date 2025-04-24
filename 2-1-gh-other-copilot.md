@@ -22,3 +22,5 @@
   - Open Android Studio -> Settings -> Plugins -> Marketplace -> Search "github copilot" -> Install -> which will install this https://plugins.jetbrains.com/plugin/17718-github-copilot
 - plugin enable
   - Open Android Studio -> Tools -> GitHub CoPilot -> Login to Github   
+
+[![Quake2](https://img.shields.io/badge/WHAM--Demo-Open-blue?style=for-the-badge)](https://copilot.microsoft.com/wham)
