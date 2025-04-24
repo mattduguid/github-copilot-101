@@ -23,4 +23,4 @@
 - plugin enable
   - Open Android Studio -> Tools -> GitHub CoPilot -> Login to Github   
 
-[![Quake2](https://img.shields.io/badge/WHAM--Demo-Open-blue?style=for-the-badge)](https://copilot.microsoft.com/wham)
+[![Quake2](https://upload.wikimedia.org/wikipedia/en/b/b5/Quake2box.jpg)](https://copilot.microsoft.com/wham)
