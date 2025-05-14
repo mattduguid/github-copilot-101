@@ -11,6 +11,30 @@
 
 ## references
 
+### git repositories
+
+- github copilot settings can be configured in the following repo/folder/file structure
+  - <REPO>/.copilot/config.json
+- example settngs
+```json
+{
+  "exclusions": {
+    "paths": [
+      "images/",
+      "_OLD/files/",
+      "_ARCHIVE/python/*.py"
+    ]
+  },
+  "telemetry": {
+    "collectSuggestions": false,
+    "collectPrompts": false
+  },
+  "security": {
+    "duplicationDetection": true
+  }
+}
+```
+
 ### visual studio code
 
 #### custom instructions for copilot
