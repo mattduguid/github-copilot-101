@@ -1,0 +1,15 @@
+{
+  "exclusions": {
+    "paths": [
+      "images/",
+      "other/",
+    ]
+  },
+  "telemetry": {
+    "collectSuggestions": false,
+    "collectPrompts": false
+  },
+  "security": {
+    "duplicationDetection": true
+  }
+}
