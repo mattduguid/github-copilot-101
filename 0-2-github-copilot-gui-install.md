@@ -1,4 +1,4 @@
-# github-copilot-gui-install
+# github copilot gui install
 
 ## main
 
