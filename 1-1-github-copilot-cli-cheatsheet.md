@@ -1,4 +1,4 @@
-# cheat sheet
+# github copilot cli cheat sheet
 
 ## common commands
 
