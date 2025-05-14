@@ -1,4 +1,4 @@
-# gh-gui-copilot-install
+# github-copilot-gui-install
 
 ## main
 
