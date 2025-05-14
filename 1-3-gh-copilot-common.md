@@ -1,5 +1,9 @@
 # common
 
+## changelog for copilot
+
+- https://github.blog/changelog/2025/?label=copilot
+
 ## supported languages / training / quick starts
 
 - Python
