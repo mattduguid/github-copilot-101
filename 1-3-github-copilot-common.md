@@ -1,29 +1,64 @@
 # github copilot common
 
-## changelog for copilot
+## github copilot changelog
 
 - https://github.blog/changelog/2025/?label=copilot
 
-## supported languages / training / quick starts
+## github copilot supported languages
 
-- Python
-  - https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/
-- JavaScript
-  - https://learn.microsoft.com/en-us/training/modules/introduction-copilot-javascript/
-- Java
-  - https://learn.microsoft.com/en-us/shows/github-copilot-series/copilot-for-java
-- TypeScript
-  - https://learn.microsoft.com/en-us/shows/github-copilot-series/power-up-typescript-with-copilot
-- Ruby
-  - https://www.youtube.com/watch?v=qomOcXomZx4&ab_channel=MicrosoftReactor
-- Go
-  - https://medium.com/@alexawesome/how-to-use-copilot-with-golang-a-step-by-step-guide-107f8a65942
-- rust
-  - https://www.linkedin.com/learning/rust-programming-from-fundamentals-to-advanced-concepts-with-ai-assisted-development/overview-of-using-github-copilot
-- C#
-  - https://learn.microsoft.com/en-us/shows/github-copilot-series/using-copilot-with-csharp
-- C++
-  - https://learn.microsoft.com/en-us/shows/github-copilot-series/getting-started-using-copilot-chat-for-cpp-in-vs-code
+- https://docs.github.com/en/enterprise-cloud@latest/get-started/learning-about-github/github-language-support
+
+## github copilot training / quick starts
+
+### github copilot for xcode
+
+- blog
+  - https://github.com/github/CopilotForXcode
+- download
+  - https://github.blog/changelog/2024-10-29-github-copilot-code-completion-in-xcode-is-now-available-in-public-preview/
+ 
+### github copilot for android studio
+
+- plugin install
+  - Open Android Studio -> Settings -> Plugins -> Marketplace -> Search "github copilot" -> Install -> which will install this https://plugins.jetbrains.com/plugin/17718-github-copilot
+- plugin enable
+  - Open Android Studio -> Tools -> GitHub CoPilot -> Login to Github
+ 
+### github copilot for go
+
+- https://medium.com/@alexawesome/how-to-use-copilot-with-golang-a-step-by-step-guide-107f8a65942
+
+### github copilot for python
+
+- https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/
+
+### github copilot for rust
+
+- https://www.linkedin.com/learning/rust-programming-from-fundamentals-to-advanced-concepts-with-ai-assisted-development/overview-of-using-github-copilot
+
+### github copilot for javascript
+  
+- https://learn.microsoft.com/en-us/training/modules/introduction-copilot-javascript/
+
+### github copilot for java
+
+- https://learn.microsoft.com/en-us/shows/github-copilot-series/copilot-for-java
+
+### github copilot for typescript
+
+- https://learn.microsoft.com/en-us/shows/github-copilot-series/power-up-typescript-with-copilot
+
+### github copilot for ruby
+
+- https://www.youtube.com/watch?v=qomOcXomZx4&ab_channel=MicrosoftReactor
+
+### github copilot for c#
+  
+- https://learn.microsoft.com/en-us/shows/github-copilot-series/using-copilot-with-csharp
+
+### github copilot for c++
+
+- https://learn.microsoft.com/en-us/shows/github-copilot-series/getting-started-using-copilot-chat-for-cpp-in-vs-code
 
 ## prompt engineering
 
