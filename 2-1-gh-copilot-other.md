@@ -1,29 +1,31 @@
-# references
+# other
 
-## visual studio code
+## references
 
-### custom instructions for copilot
+### visual studio code
+
+#### custom instructions for copilot
 
 - blog
   - https://code.visualstudio.com/blogs/2025/03/26/custom-instructions 
 - documentation
   - https://code.visualstudio.com/docs/copilot/copilot-customization
 
-## github copilot for xcode
+### github copilot for xcode
 
 - blog
   - https://github.com/github/CopilotForXcode
 - download
   - https://github.blog/changelog/2024-10-29-github-copilot-code-completion-in-xcode-is-now-available-in-public-preview/
  
-## github copilot for android studio
+### github copilot for android studio
 
 - plugin install
   - Open Android Studio -> Settings -> Plugins -> Marketplace -> Search "github copilot" -> Install -> which will install this https://plugins.jetbrains.com/plugin/17718-github-copilot
 - plugin enable
   - Open Android Studio -> Tools -> GitHub CoPilot -> Login to Github   
 
-## copilot real time AI rendered version of Quake II 
+### copilot real time AI rendered version of Quake II 
 
 [![Quake2](https://upload.wikimedia.org/wikipedia/en/b/b5/Quake2box.jpg)](https://copilot.microsoft.com/wham "Click to play a real-time AI-rendered version of Quake II in your browser using Microsoft WHAMM")
 
