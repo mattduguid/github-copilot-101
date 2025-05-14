@@ -1,4 +1,4 @@
-# github-copilot-cli-install
+# github copilot cli install
 
 ## main
 
