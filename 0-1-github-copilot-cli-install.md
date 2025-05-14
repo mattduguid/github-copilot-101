@@ -1,4 +1,4 @@
-# ☰ Menu
+# ☰ menu
 
 [🖥️ github copilot cli install](0-1-github-copilot-cli-install.md)  
 [🖥 github copilot gui install](0-2-github-copilot-gui-install.md)  
