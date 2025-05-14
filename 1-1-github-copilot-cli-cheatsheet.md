@@ -9,14 +9,18 @@
 
 # github copilot cli cheat sheet
 
+## authenticate
+
+- gh copilot login
+
 ## common commands
 
-### explain a command
+### 'explain' a command
 
 - gh copilot explain "pwsh -script {}"
 - gh copilot explain "sudo apt-get
 
-### suggest a command
+### 'suggest' a command
 
 - gh copilot suggest "how to delete all .md files in this folder"
 
