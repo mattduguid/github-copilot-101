@@ -1,15 +1,22 @@
 # common
 
-## supported languages
+## supported languages / training / quick starts
 
 - Python
+  - https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/
 - JavaScript
+  - https://learn.microsoft.com/en-us/training/modules/introduction-copilot-javascript/
 - Java
+  - https://learn.microsoft.com/en-us/shows/github-copilot-series/copilot-for-java
 - TypeScript
+  - https://learn.microsoft.com/en-us/shows/github-copilot-series/power-up-typescript-with-copilot
 - Ruby
 - Go
+  - https://medium.com/@alexawesome/how-to-use-copilot-with-golang-a-step-by-step-guide-107f8a65942
 - C#
+  - https://learn.microsoft.com/en-us/shows/github-copilot-series/using-copilot-with-csharp
 - C++
+  - https://learn.microsoft.com/en-us/shows/github-copilot-series/getting-started-using-copilot-chat-for-cpp-in-vs-code
 
 ## prompt engineering
 
