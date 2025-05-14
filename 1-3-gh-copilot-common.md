@@ -11,8 +11,11 @@
 - TypeScript
   - https://learn.microsoft.com/en-us/shows/github-copilot-series/power-up-typescript-with-copilot
 - Ruby
+  - https://www.youtube.com/watch?v=qomOcXomZx4&ab_channel=MicrosoftReactor
 - Go
   - https://medium.com/@alexawesome/how-to-use-copilot-with-golang-a-step-by-step-guide-107f8a65942
+- rust
+  - https://www.linkedin.com/learning/rust-programming-from-fundamentals-to-advanced-concepts-with-ai-assisted-development/overview-of-using-github-copilot
 - C#
   - https://learn.microsoft.com/en-us/shows/github-copilot-series/using-copilot-with-csharp
 - C++
