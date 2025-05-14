@@ -1,4 +1,4 @@
-# cheat sheet
+# github copilot gui cheat sheet
 
 ## command palette
 
