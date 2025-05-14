@@ -11,6 +11,47 @@
 
 ## references
 
+### extensions
+
+#### github copilot and copilot chat
+
+- path (mac)
+  - ~/Library/Application Support/Code/User/settings.json
+- example settings
+```json
+{
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "github.copilot.advanced": {
+        "enableChat": true,
+        "enableChatCompletions": true,
+        "enableCodeCompletions": true,
+        "enableInlineSuggestions": true,
+        "enableCopilotX": true,
+        "enableCopilotXChat": true,
+        "enableCopilotXCodeCompletions": true,
+        "enableCopilotXInlineSuggestions": true
+    },
+    "github.copilot.chat.reviewSelection.instructions": [
+        {
+            "file": ".copilot-review-instructions.md"
+        }
+    ],
+    "github.copilot.chat.codeGeneration.instructions": [
+        {
+            "file": ".copilot-codeGeneration-instructions.md"
+        }       
+    ]
+}
+```
+- notes on '.copilot-review-instructions.md' and '.copilot-codeGeneration-instructions.md'
+  - they are relative to the workspace root eg: the root folder you open in VS Code
+  - they are project-specific and should be placed in the root directory of each project where you want these instructions to apply
+  - they cannot be shared globally across all projects/workspaces via a single location
+  - if you want the same instructions in multiple projects you need to copy these files into each project's root directory
+
 ### git repositories
 
 - github copilot settings can be configured in the following repo/folder/file structure
@@ -37,7 +78,9 @@
 
 ### visual studio code
 
-#### custom instructions for copilot
+#### custom settings for git
+
+#### custom instructions for github copilot
 
 - blog
   - https://code.visualstudio.com/blogs/2025/03/26/custom-instructions 
