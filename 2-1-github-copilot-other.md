@@ -52,10 +52,14 @@
 }
 ```  
 
-### git repositories
+### configuring git repositories for github copilot
 
 #### custom instructions
 
+- blog
+  - https://code.visualstudio.com/blogs/2025/03/26/custom-instructions 
+- documentation
+  - https://code.visualstudio.com/docs/copilot/copilot-customization
 - github copilot settings can be configured in the following repo/folder/file structure
   - <REPO>/.github/copilot-instructions.md
 - example instructions,
@@ -109,13 +113,6 @@ Golang API with SQLite backend. Used by iOS (SwiftUI) and Android (Kotlin) mobil
   }
 }
 ```
-
-### custom instructions for github copilot
-
-- blog
-  - https://code.visualstudio.com/blogs/2025/03/26/custom-instructions 
-- documentation
-  - https://code.visualstudio.com/docs/copilot/copilot-customization
 
 ### copilot real time AI rendered version of Quake II 
 
