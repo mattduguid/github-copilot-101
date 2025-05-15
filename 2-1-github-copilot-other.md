@@ -34,23 +34,25 @@
         "enableCopilotXCodeCompletions": true,
         "enableCopilotXInlineSuggestions": true
     },
-    "github.copilot.chat.reviewSelection.instructions": [
-        {
-            "file": ".copilot-review-instructions.md"
-        }
-    ],
     "github.copilot.chat.codeGeneration.instructions": [
         {
             "file": ".copilot-codeGeneration-instructions.md"
         }       
-    ]
+    ],
+    "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+    "github.copilot.chat.promptFiles": true,
+    "github.copilot.chat.promptFilesLocations": [
+        {
+            "file": ".copilot-prompt-instructions.md"
+        },
+        {
+            "file": ".copilot-prompt.md"
+        }
+    ],
 }
 ```
-- notes on '.copilot-review-instructions.md' and '.copilot-codeGeneration-instructions.md'
-  - they are relative to the workspace root eg: the root folder you open in VS Code
-  - they are project-specific and should be placed in the root directory of each project where you want these instructions to apply
-  - they cannot be shared globally across all projects/workspaces via a single location
-  - if you want the same instructions in multiple projects you need to copy these files into each project's root directory
+- full references
+  - https://code.visualstudio.com/docs/copilot/reference/copilot-settings  
 
 ### git repositories
 
