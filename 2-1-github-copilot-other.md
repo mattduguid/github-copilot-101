@@ -11,9 +11,9 @@
 
 ## references
 
-### extensions
+### visual studio code
 
-#### github copilot and copilot chat
+#### extensions for github copilot and copilot chat
 
 - path (mac)
   - ~/Library/Application Support/Code/User/settings.json
@@ -76,11 +76,7 @@
 }
 ```
 
-### visual studio code
-
-#### custom settings for git
-
-#### custom instructions for github copilot
+### custom instructions for github copilot
 
 - blog
   - https://code.visualstudio.com/blogs/2025/03/26/custom-instructions 
