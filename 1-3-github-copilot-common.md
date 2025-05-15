@@ -69,7 +69,7 @@
 
 - https://learn.microsoft.com/en-us/shows/github-copilot-series/getting-started-using-copilot-chat-for-cpp-in-vs-code
 
-## prompt engineering
+## guide: prompt engineering
 
 - Single
   - Always focus your prompt on a single, well-defined task or question. This clarity is crucial for eliciting accurate and useful responses from Copilot.
@@ -79,3 +79,12 @@
   - While being specific, keep prompts concise and to the point. This balance ensures clarity without overloading Copilot or complicating the interaction.
 - Surround
   - Utilize descriptive filenames and keep related files open. This provides Copilot with rich context, leading to more tailored code suggestions.
+ 
+## guide: six key principles for responsible ai that guide gitHub copilot's development
+
+- Fairness
+- Reliability and Safety
+- Privacy and Security
+- Inclusiveness
+- Transparency
+- Accountability
