@@ -83,8 +83,16 @@
 ## guide: six key principles for responsible ai that guide gitHub copilot's development
 
 - Fairness
+  - GitHub Copilot is designed to provide suggestions that are free from bias, do not promote harmful stereotypes, and treat all users equitably. Fairness means avoiding favoritism toward specific languages, styles, or demographics, and ensuring AI suggestions don’t reflect or amplify societal bias present in training data.
 - Reliability and Safety
+  - Copilot must provide consistent and dependable code suggestions that do not introduce bugs, security flaws, or unsafe logic. Reliability also means it should behave as expected across various environments, and safety includes filtering out potentially harmful or destructive code
 - Privacy and Security
+  - User data and code must be handled securely. GitHub Copilot avoids retaining or training on personal/private code unless explicitly permitted. Features like content exclusions, telemetry opt-outs, and duplication detection help protect sensitive code and maintain developer trust.
 - Inclusiveness
+  - Copilot should support a wide range of developers regardless of background or experience level. That includes offering code suggestions across multiple programming languages, accessible documentation, and support for developers using assistive technologies or non-traditional workflows.
 - Transparency
+  - GitHub must be clear about how Copilot works, what data it uses, and its limitations. This includes documenting how suggestions are generated, when public code might be matched, what context is used, and how users can control data collection.
 - Accountability
+  - Microsoft and GitHub take responsibility for how Copilot is developed, deployed, and used. This means offering user controls, clear policies, redress mechanisms (e.g., flagging problematic suggestions), and ensuring that AI doesn’t absolve humans from oversight or review.
+
+
