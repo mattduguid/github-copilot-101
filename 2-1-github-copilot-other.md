@@ -54,9 +54,43 @@
 
 ### git repositories
 
+#### custom instructions
+
+- github copilot settings can be configured in the following repo/folder/file structure
+  - <REPO>/.github/copilot-instructions.md
+- example instructions,
+```markdown
+# GitHub Copilot Instructions
+
+## Project
+Golang API with SQLite backend. Used by iOS (SwiftUI) and Android (Kotlin) mobile apps.
+
+## Coding Guidelines
+- Use idiomatic Go
+- Keep handlers and DB logic in separate files
+- Use dependency injection, no globals
+- Validate inputs and return structured errors
+
+## Security
+- Use parameterized SQL queries
+- Never log secrets or passwords
+- Validate JWTs on protected routes
+
+## Naming
+- camelCase for variables/functions
+- Use `ID` (not `Id`), e.g. `userID`, `sessionID`
+- HTTP handlers end in `Handler`
+
+## Don’ts
+- No `fmt.Println` in prod
+- No hardcoded secrets
+```
+
+#### settings
+
 - github copilot settings can be configured in the following repo/folder/file structure
   - <REPO>/.copilot/config.json
-- example settngs
+- example settngs,
 ```json
 {
   "exclusions": {
