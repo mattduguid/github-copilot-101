@@ -17,7 +17,7 @@
 
 - path (mac)
   - ~/Library/Application Support/Code/User/settings.json
-- example settings
+- example settings and full reference -> https://code.visualstudio.com/docs/copilot/reference/copilot-settings
 ```json
 {
     "files.autoSave": "afterDelay",
@@ -50,9 +50,7 @@
         }
     ],
 }
-```
-- full references
-  - https://code.visualstudio.com/docs/copilot/reference/copilot-settings  
+```  
 
 ### git repositories
 
