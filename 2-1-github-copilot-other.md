@@ -13,7 +13,7 @@
 
 ### visual studio code
 
-#### extensions for github copilot and copilot chat
+#### configuring extensions for github copilot and copilot chat
 
 - path (mac)
   - ~/Library/Application Support/Code/User/settings.json
@@ -50,11 +50,9 @@
         }
     ],
 }
-```  
+```
 
-### configuring git repositories for github copilot
-
-#### custom instructions
+### configuring custom instructions for github copilot in git repos or visual studio code
 
 - blog
   - https://code.visualstudio.com/blogs/2025/03/26/custom-instructions 
@@ -90,7 +88,7 @@ Golang API with SQLite backend. Used by iOS (SwiftUI) and Android (Kotlin) mobil
 - No hardcoded secrets
 ```
 
-#### settings
+### configuring custom settings for github copilot in git repos
 
 - github copilot settings can be configured in the following repo/folder/file structure
   - <REPO>/.copilot/config.json
