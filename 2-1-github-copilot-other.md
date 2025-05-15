@@ -112,7 +112,7 @@ Golang API with SQLite backend. Used by iOS (SwiftUI) and Android (Kotlin) mobil
 }
 ```
 
-### copilot real time AI rendered version of Quake II 
+### github copilot real time AI rendered version of Quake II 
 
-[![Quake2](https://upload.wikimedia.org/wikipedia/en/b/b5/Quake2box.jpg)](https://copilot.microsoft.com/wham "Click to play a real-time AI-rendered version of Quake II in your browser using Microsoft WHAMM")
+- [![Quake2](https://upload.wikimedia.org/wikipedia/en/b/b5/Quake2box.jpg)](https://copilot.microsoft.com/wham "Click to play a real-time AI-rendered version of Quake II in your browser using Microsoft WHAMM")
 
