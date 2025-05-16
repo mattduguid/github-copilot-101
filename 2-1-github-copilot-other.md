@@ -9,11 +9,7 @@
 
 # github copilot other
 
-## references
-
-### visual studio code
-
-#### configuring extensions for github copilot and copilot chat
+## configuring extensions for github copilot and copilot chat
 
 - path (mac)
   - ~/Library/Application Support/Code/User/settings.json
@@ -56,7 +52,7 @@
 }
 ```
 
-### configuring custom instructions for github copilot in git repos or visual studio code
+## configuring custom instructions for github copilot in git repos
 
 - documentation
   - https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot
@@ -91,7 +87,7 @@ Golang API with SQLite backend. Used by iOS (SwiftUI) and Android (Kotlin) mobil
 - No hardcoded secrets
 ```
 
-### configuring custom prompt file for github copilot in git repos
+## configuring custom prompt files for github copilot in git repos
 
 - documentation
   - https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot#enabling-and-using-prompt-files
@@ -116,7 +112,7 @@ Generate unit tests for the code in the files in this folder
 - Do not modify the original source code  
 ```
 
-### configuring custom settings for github copilot in git repos
+## configuring custom settings for github copilot in git repos
 
 - github copilot settings can be configured in the following repo/folder/file structure
   - <REPO>/.copilot/config.json
@@ -140,7 +136,7 @@ Generate unit tests for the code in the files in this folder
 }
 ```
 
-### github copilot real time AI rendered version of Quake II 
+## github copilot real time AI rendered version of Quake II 
 
 - [![Quake2](https://upload.wikimedia.org/wikipedia/en/b/b5/Quake2box.jpg)](https://copilot.microsoft.com/wham "Click to play a real-time AI-rendered version of Quake II in your browser using Microsoft WHAMM")
 
