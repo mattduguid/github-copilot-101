@@ -58,11 +58,10 @@
 
 ### configuring custom instructions for github copilot in git repos or visual studio code
 
-- blog
-  - https://code.visualstudio.com/blogs/2025/03/26/custom-instructions 
 - documentation
-  - https://code.visualstudio.com/docs/copilot/copilot-customization
-- github copilot settings can be configured in the following repo/folder/file structure
+  - https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot
+  - https://code.visualstudio.com/blogs/2025/03/26/custom-instructions 
+- github copilot custom instructions can be configured in the following repo/folder/file structure and copilot will find it automatically
   - <REPO>/.github/copilot-instructions.md
 - example instructions,
 ```markdown
@@ -90,6 +89,31 @@ Golang API with SQLite backend. Used by iOS (SwiftUI) and Android (Kotlin) mobil
 ## Don’ts
 - No `fmt.Println` in prod
 - No hardcoded secrets
+```
+
+### configuring custom prompt file for github copilot in git repos
+
+- documentation
+  - https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot#enabling-and-using-prompt-files
+- github copilot prompt files can be configured anywhere in a repo structure but must have file name format *.prompt.md
+  - <REPO>/copilot-prompt-main.prompt.md
+  - <REPO>/css/copilot-prompt-css.prompt.md
+  - <REPO>/tests/copilot-prompt-tests.prompt.md
+  - ...etc...
+- example instructions for ../copilot-prompt-tests.prompt.md,
+```markdown
+# Title: Generate Unit Tests for the files in this folder
+
+# Description:
+Write appropriate unit tests for the files in this folder. Use the correct testing framework based on the language and structure of the code.
+
+# Prompt:
+Generate unit tests for the code in the files in this folder  
+- Use the appropriate testing framework (e.g., Jest for JavaScript/TypeScript, Pytest for Python, etc.)  
+- Include edge cases and error handling scenarios  
+- Use descriptive test case names  
+- Organize the tests clearly  
+- Do not modify the original source code  
 ```
 
 ### configuring custom settings for github copilot in git repos
