@@ -9,49 +9,6 @@
 
 # github copilot other
 
-## configuring extensions for github copilot and copilot chat
-
-- path (mac)
-  - ~/Library/Application Support/Code/User/settings.json
-- example settings and full reference -> https://code.visualstudio.com/docs/copilot/reference/copilot-settings
-```json
-{
-    "files.autoSave": "afterDelay",
-    "explorer.confirmDelete": false,
-    "git.enableSmartCommit": true,
-    "git.confirmSync": false,
-    "github.copilot.advanced": {
-        "enableChat": true,
-        "enableChatCompletions": true,
-        "enableCodeCompletions": true,
-        "enableInlineSuggestions": true,
-        "enableCopilotX": true,
-        "enableCopilotXChat": true,
-        "enableCopilotXCodeCompletions": true,
-        "enableCopilotXInlineSuggestions": true
-    },
-    "github.copilot.chat.codeGeneration.instructions": [
-        {
-            "file": ".copilot-codeGeneration-instructions.md"
-        }       
-    ],
-    "github.copilot.chat.codeGeneration.useInstructionFiles": true,
-    "github.copilot.chat.promptFiles": true,
-    "github.copilot.chat.promptFilesLocations": [
-        {
-            "file": ".copilot-prompt-instructions.md"
-        },
-        {
-            "file": ".copilot-prompt.md"
-        }
-    ],
-    "github.copilot.enable": true,
-    "github.copilot.proxy": "http://your-proxy.example.com:8080",
-    "http.proxy": "http://your-proxy.example.com:8080",
-    "http.proxyStrictSSL": false
-}
-```
-
 ## configuring custom instructions for github copilot in git repos
 
 - documentation
@@ -133,6 +90,48 @@ Generate unit tests for the code in the files in this folder
   "security": {
     "duplicationDetection": true
   }
+}
+```
+## configuring extensions for github copilot and copilot chat
+
+- path (mac)
+  - ~/Library/Application Support/Code/User/settings.json
+- example settings and full reference -> https://code.visualstudio.com/docs/copilot/reference/copilot-settings
+```json
+{
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "github.copilot.advanced": {
+        "enableChat": true,
+        "enableChatCompletions": true,
+        "enableCodeCompletions": true,
+        "enableInlineSuggestions": true,
+        "enableCopilotX": true,
+        "enableCopilotXChat": true,
+        "enableCopilotXCodeCompletions": true,
+        "enableCopilotXInlineSuggestions": true
+    },
+    "github.copilot.chat.codeGeneration.instructions": [
+        {
+            "file": ".copilot-codeGeneration-instructions.md"
+        }       
+    ],
+    "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+    "github.copilot.chat.promptFiles": true,
+    "github.copilot.chat.promptFilesLocations": [
+        {
+            "file": ".copilot-prompt-instructions.md"
+        },
+        {
+            "file": ".copilot-prompt.md"
+        }
+    ],
+    "github.copilot.enable": true,
+    "github.copilot.proxy": "http://your-proxy.example.com:8080",
+    "http.proxy": "http://your-proxy.example.com:8080",
+    "http.proxyStrictSSL": false
 }
 ```
 
