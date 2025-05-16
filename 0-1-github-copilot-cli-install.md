@@ -40,7 +40,7 @@ gh auth status
 
 - https://github.com/topics/gh-extension
 
-### extension install gh-copilot
+### extension install and upgrade gh-copilot
 
 ```bash
 # list
@@ -48,4 +48,7 @@ gh extension list
 
 # install copilot
 gh extension install github/gh-copilot
+
+# upgrade
+gh extension upgrade github/gh-copilot
 ```
