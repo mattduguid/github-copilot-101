@@ -53,6 +53,7 @@ Open the command palette in Visual Studio Code by selecting
 | #block | Includes the current block of code in the prompt. |
 | #class | Includes the current class in the prompt. |
 | #comment | Includes the current comment in the prompt. |
+| #editor | Includes the entire contents of the currently active editor tab. |
 | #file | Includes the current file's content in the prompt. |
 | #function | Includes the current function or method in the prompt. |
 | #line | Includes the current line of code in the prompt. |
