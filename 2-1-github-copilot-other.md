@@ -9,6 +9,21 @@
 
 # github copilot other
 
+## status
+
+- github status (main)
+  - https://www.githubstatus.com/
+  - https://www.githubstatus.com/history
+- github status (x aka twitter)
+  - https://x.com/githubstatus
+- github copilot status (3rd party monitors)
+  - https://isdown.app/status/github/copilot
+  - https://statusgator.com/services/github/copilot
+- test connectibity to GitHubs endpoints
+```bash
+curl --verbose https://copilot-proxy.githubusercontent.com/_ping
+```
+
 ## configuring custom instructions for github copilot in git repos
 
 - documentation
