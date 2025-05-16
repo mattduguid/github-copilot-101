@@ -49,6 +49,10 @@
             "file": ".copilot-prompt.md"
         }
     ],
+    "github.copilot.enable": true,
+    "github.copilot.proxy": "http://your-proxy.example.com:8080",
+    "http.proxy": "http://your-proxy.example.com:8080",
+    "http.proxyStrictSSL": false
 }
 ```
 
