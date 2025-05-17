@@ -9,9 +9,18 @@
 
 # github copilot gui cheat sheet
 
-## command palette
+## keyboard shortcuts
 
-Open the command palette in Visual Studio Code by selecting
+### multiple suggestions
+
+  - Windows or Linux
+    - Next = Alt + ]
+    - Previous = Alt + [
+  - Mac
+    - Next = Option (⌥) or Alt + ]
+    - Previous = Option (⌥) or Alt + [
+
+### open the command palette in visual studio code
 
 - Windows or Linux
   - Ctrl + Shift + P 
@@ -34,17 +43,6 @@ Open the command palette in Visual Studio Code by selecting
 | /new | Create a new project. |
 | /optimize | Analyzes and improves the runtime of the selected code. |
 | /tests | Generate unit tests for the selected code. |
-
-## keyboard shortcuts
-
-## multiple suggestions
-
-  - Windows or Linux
-    - Next = Alt + ]
-    - Previous = Alt + [
-  - Mac
-    - Next = Option (⌥) or Alt + ]
-    - Previous = Option (⌥) or Alt + [
 
 ## chat variables
 
