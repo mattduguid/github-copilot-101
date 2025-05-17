@@ -166,6 +166,10 @@ Generate unit tests for the code in the files in this folder
 }
 ```
 
+## copilot api
+
+- https://docs.github.com/en/rest/copilot
+
 ## github copilot real time AI rendered version of Quake II 
 
 - [![Quake2](https://upload.wikimedia.org/wikipedia/en/b/b5/Quake2box.jpg)](https://copilot.microsoft.com/wham "Click to play a real-time AI-rendered version of Quake II in your browser using Microsoft WHAMM")
