@@ -24,6 +24,22 @@
 curl --verbose https://copilot-proxy.githubusercontent.com/_ping
 ```
 
+## log files
+
+- visual studio code
+  - mac/linux
+    - ~/.vscode/extensions/github.copilot-*/copilot.log
+  - windows
+    - %USERPROFILE%\.vscode\extensions\github.copilot-*\copilot.log
+- visual studio
+  - windows only
+  - %APPDATA%\GitHub Copilot\logs\copilot.log
+- jetbrains
+  - mac
+    - ~/Library/Logs/JetBrains/<IDE>/copilot.log
+  - windows
+    - %USERPROFILE%\.<JetBrains IDE>\system\log\copilot.log
+
 ## configuring custom instructions for github copilot in git repos
 
 - documentation
