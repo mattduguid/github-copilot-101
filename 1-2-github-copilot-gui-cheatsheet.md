@@ -11,7 +11,7 @@
 
 ## keyboard shortcuts
 
-### multiple suggestions
+### multiple suggestions from github copilot
 
   - Windows or Linux
     - Next = Alt + ]
@@ -20,7 +20,7 @@
     - Next = Option (⌥) or Alt + ]
     - Previous = Option (⌥) or Alt + [
 
-### open the command palette in visual studio code
+### commands for github copilot from the command palette in visual studio code
 
 - Windows or Linux
   - Ctrl + Shift + P 
