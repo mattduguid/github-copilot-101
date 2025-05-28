@@ -1,11 +1,14 @@
 name: Auto Update Markdown Menus
 
+# NOTES
+#  - requires "<repo>" -> "settings" -> "actions" -> "general" -> "Workflow permissions" -> "Read and write permissions"
+
 on:
   workflow_dispatch:
   push:
     paths:
-      - 'other/menu.md'
       - '.github/workflows/menu.yml'
+      - 'other/menu.md'
       - 'other/menu.sh'
 
 jobs:

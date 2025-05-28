@@ -2,7 +2,7 @@
   "exclusions": {
     "paths": [
       "images/",
-      "other/",
+      "other/"
     ]
   },
   "telemetry": {
