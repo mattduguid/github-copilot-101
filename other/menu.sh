@@ -15,8 +15,8 @@ find . -type f -name "*.md" ! -path "./other/menu.md" | while read -r file; do
   # Replace the block between menu markers in each file
   awk '
     BEGIN {in_menu=0}
-    /^<!-- menu-start -->/ {in_menu=1; system("cat .menu_block_tmp"); next}
-    /^<!-- menu-end -->/ {in_menu=0; next}
+    /^\s*<!-- menu-start -->/ {in_menu=1; system("cat .menu_block_tmp"); next}
+    /^\s*<!-- menu-end -->/ {in_menu=0; next}
     !in_menu {print}
   ' "$file" > "$file.tmp" && mv "$file.tmp" "$file"
 done
